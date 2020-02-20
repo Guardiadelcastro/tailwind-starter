@@ -28,8 +28,8 @@
         </div>
       </div>
       <div class="">
-        <span class="">+10</span><span class="">Push ups</span
-        ><span class="">/week</span>
+        <span class=""><span class="">+10</span>Push ups</span>
+        <span class="">/week</span>
       </div>
     </div>
     <div class="">

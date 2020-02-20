@@ -9,7 +9,7 @@
     </div>
     <div class="px-3 py-2">
       <div class="flex justify-between">
-        <h2 class="uppercase tracking-wider font-bold text-teal-500">
+        <h2 class="uppercase tracking-wider font-bold text-gray-900">
           100 Push-ups
         </h2>
         <p class="flex flex-col items-end">
@@ -28,9 +28,9 @@
         </div>
       </div>
       <div class="border-t border-teal-200 text-center">
-        <span class="text-2xl text-teal-400">+10</span
-        ><span class="text-xl text-gray-700">Push ups</span
-        ><span class="text-sm text-gray-500">/week</span>
+        <span class="text-2xl text-teal-400">+10</span>
+        <span class="text-xl text-gray-700">Push ups</span>
+        <span class="text-sm text-gray-500">/week</span>
       </div>
     </div>
     <div class="px-3 py-3 flex justify-end bg-gray-300">
